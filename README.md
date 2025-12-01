@@ -30,7 +30,7 @@ A comprehensive Java application for managing theme park visitors and ride opera
 I acknowledge that I have not knowingly used GenAI to complete this assessment.
 
 ## Video Demonstration
-[Link to video explanation]
+https://scuonline-my.sharepoint.com/:v:/g/personal/d_li_26_student_scu_edu_au/EZjBr-wS03JPvMPZvdKXNVsBPAKwGMRz-Ju3_TM7lwJN6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6psLDZ
 
 ## Author
 Dongxu Li
