@@ -5,7 +5,7 @@ public abstract class Person {
     
     // Default constructor
     public Person() {
-        // 默认构造函数
+        
     }
     
     // Parameterized constructor
